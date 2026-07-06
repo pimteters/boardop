@@ -89,6 +89,8 @@ commands, a mandatory human review of every generated plugin, and an all-or-noth
 hold when a response mixes both. These are guardrails, not guarantees — BoardOp is for
 **programming and pre-production, not live show operation.**
 
+
+![Demo](assets/demo2.gif)
 ---
 
 ## What you'll need
